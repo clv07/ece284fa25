@@ -1,0 +1,3 @@
+./q2/mac.v
+./q2/mac_tb.v
+./q2/mac_wrapper.v
